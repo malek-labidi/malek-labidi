@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malek Labidi</h1>
-<h3 align="center">IT engineering student</h3>
+<h3 align="center">Computer Technologies Graduate | GDSC-ESPRIT Coordinator | Computer science engineering student at ESPRIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malek-labidi&label=Profile%20views&color=0e75b6&style=flat" alt="malek-labidi" /> </p>
 
